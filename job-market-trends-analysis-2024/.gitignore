@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Data
+/data/raw/
+/data/cleaned/
+
+# Jupyter
+.ipynb_checkpoints/
